@@ -22,7 +22,7 @@ Un sistema de gestion de tareas personales estilo Notion, las cuales se clasific
 
 ### Modelo
 
-![diagrama de clases] (Modelo/Diagrama.png)
+![Diagrama de clases](modelo/Diagrama.png)
 
 ## Alcance Funcional
 
